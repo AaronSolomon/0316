@@ -1,2 +1,2 @@
-Alice
-Bob
+1. Alice
+2. Bob
